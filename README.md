@@ -1,6 +1,6 @@
 ## Setup Notes
 
-1. All components ready to go (including imports)
+1. All components ready to go (including imports).
 2. Use main.css - less imports
 3. Limit amount of components - better overview
 4. React Icons
